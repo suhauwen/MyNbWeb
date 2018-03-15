@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">自然美</string>
+    <string name="button1">網路訂單登入</string>
+    <string name="button2">庫存查詢</string>
+    <string name="button3">優惠訊息</string>
+    <string name="button4">最新訊息</string>
+    <string name="item_name">品名</string>
+    <string name="item_input">輸入料號:</string>
+    <string name="item_qty">庫存數量</string>
+    <string name="search">查詢</string>
+    <string name="item_number">料號</string>
+    <string name="account">帳號:</string>
+    <string name="password">密碼:</string>
+    <string name="login">登入</string>
+    <string name="todolist">待辦事項</string>
+    <string name="location">打卡</string>
+    <string name="storemsg">門店訊息</string>
+    <string name="assign">任務指派</string>
+    <string name="assignlist">任務列表</string>
+    <string name="assigndelete">刪除任務</string>
+    <string name="report">報表</string>
+    <string name="ENTER">確定</string>
+    <string name="TOP_NAME">姓名:</string>
+    <string name="DESC">內容:</string>
+</resources>
